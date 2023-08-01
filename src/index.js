@@ -38,6 +38,13 @@ function App() {
               <hr></hr>
 
               <h5>Boolean</h5>
+              <p>Booleans that are true can just be listed with the property name.</p>
+              <pre>
+                <code>
+                  {`<textarea autofocus/>`}
+                </code>
+              </pre>
+              <p>Some developers like to write the parentheses around true to make code more consistent.</p>
               <p>"true"</p>
               <p>"false"</p>
               <hr></hr>
@@ -75,6 +82,13 @@ function App() {
               <hr></hr>
 
               <h5>Boolean</h5>
+              <p>Booleans that are true can just be listed with the property name.</p>
+              <pre>
+                <code>
+                  {`<textarea autoFocus/>`}
+                </code>
+              </pre>
+              <p>Some developers like to write the parentheses around true to make code more consistent.</p>
               <p>'true'</p>
               <p>&#123;False&#125;</p>
               <hr></hr>
@@ -90,7 +104,6 @@ function App() {
                   {`<div style={{color:'blue'}} />`}
                 </code>
               </pre>
-
 
             </div>
           </div>
